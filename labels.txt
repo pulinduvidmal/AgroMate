@@ -1,0 +1,8 @@
+0 Chicken
+1 Elephant
+2 Hamster
+3 Skunk
+4 Rabbit
+5 Monkey
+6 Wild_boar
+7 Birds
