@@ -55,3 +55,7 @@ This project is proudly developed by the ElectroMavericks Team:
 - [Achira Hansindu](https://github.com/)
 
 
+
+https://github.com/eshansurendra/AgroMate/assets/107745538/e9d94e29-584d-4b74-abfb-c5a718fd8113
+
+
